@@ -1,0 +1,3 @@
+product | pub | town
+beer | coach | harrogate
+lager | 3s a crowd | harrogate
